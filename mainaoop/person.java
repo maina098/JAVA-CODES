@@ -1,3 +1,7 @@
+/ANDERSON MAINA
+    CT101/G/20948/23
+    THIS PROGRAM REQUESTS USER INPUT AND USES IT TO DISPLAY OUTPUT
+*/
 import java.util.Scanner;
 public class person {
     string name:
